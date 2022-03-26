@@ -1,0 +1,124 @@
+{
+  "geometry": "skinpacks/skins.json",
+  "skins": [
+ {
+      "localization_name": "armor",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "armor.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "blue_girl",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "blue_girl.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "boy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "boy.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "creeper",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "creeper.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "ender_armor",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ender_armor.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "flame",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "flame.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "girl",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "girl.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "inori",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "inori.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "kikoo",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "kikoo.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "professor",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "professor.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "queen",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "queen.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "santa",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "santa.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "strength_girl",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "strength_girl.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "tokyo_ghoul",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "tokyo_ghoul.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "troll",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "troll.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "warrior",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "warrior.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "warrior_girl",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "warrior_girl.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "white_armor",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "white_armor.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "white_boy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "white_boy.png",
+      "type": "free"
+    }
+	
+	
+	
+  ],
+  "serialize_name": "Myzic911",
+  "localization_name": "myzic"
+}
