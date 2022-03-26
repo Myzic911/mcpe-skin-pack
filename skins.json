@@ -116,15 +116,147 @@
       "type": "free"
     },
 	{
-      "localization_name": "hd",
+      "localization_name": "superman",
       "geometry": "geometry.humanoid.custom",
-      "texture": "hd.png",
+      "texture": "superman.png",
       "type": "free"
     },
 	{
-      "localization_name": "ultra_hd",
+      "localization_name": "blue_creeper",
       "geometry": "geometry.humanoid.custom",
-      "texture": "ultra_hd.png",
+      "texture": "blue_creeper.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "herobrine",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "herobrine.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pig",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pig.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "business_women",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "business_women.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "girl_flower",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "girl_flower.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "military",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "military.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "hold_up",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "hold_up.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "creeper_thug_life",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "creeper_thug_life.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "noob",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "noob.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "peggy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "peggy.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "girl_flight_pilot",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "girl_flight_pilot.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "rainbow_slime",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "rainbow_slime.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "magma_cube",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "magma_cube.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "bot",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "bot.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "girl_cat_ear",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "girl_cat_ear.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "futurist",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "futurist.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "scientist_zombie",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "scientist_zombie.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "rainbow_girl",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "rainbow_girl.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "mario",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "mario.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "king_zombie",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "king_zombie.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "blue_girl2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "blue_girl2.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "cake",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "cake.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "snow_queen",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "snow_queen.png",
       "type": "free"
     }
 	
