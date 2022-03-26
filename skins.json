@@ -114,8 +114,19 @@
       "geometry": "geometry.humanoid.custom",
       "texture": "white_boy.png",
       "type": "free"
+    },
+	{
+      "localization_name": "hd",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "hd.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "ultra_hd",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ultra_hd.png",
+      "type": "free"
     }
-	
 	
 	
   ],
