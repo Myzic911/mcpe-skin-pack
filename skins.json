@@ -480,6 +480,42 @@
       "geometry": "geometry.humanoid.custom",
       "texture": "eye_glasses.png",
       "type": "free"
+    },
+	{
+      "localization_name": "hamster",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "hamster.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "hog_rider",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "hog_rider.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "cow",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "cow.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "kikoo_suit",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "kikoo_suit.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "tnt_boy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "tnt_boy.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "shrek",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "shrek.png",
+      "type": "free"
     }
 	
 	
