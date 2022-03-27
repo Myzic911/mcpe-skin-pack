@@ -254,9 +254,9 @@
       "type": "free"
     },
 	{
-      "localization_name": "snow_queen",
+      "localization_name": "elsa",
       "geometry": "geometry.humanoid.custom",
-      "texture": "snow_queen.png",
+      "texture": "elsa.png",
       "type": "free"
     },
 	{
@@ -467,6 +467,18 @@
       "localization_name": "panda",
       "geometry": "geometry.humanoid.custom",
       "texture": "panda.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "prisoner",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "prisoner.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "eye_glasses",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "eye_glasses.png",
       "type": "free"
     }
 	
