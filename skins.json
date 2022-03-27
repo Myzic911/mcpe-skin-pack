@@ -258,6 +258,216 @@
       "geometry": "geometry.humanoid.custom",
       "texture": "snow_queen.png",
       "type": "free"
+    },
+	{
+      "localization_name": "anna",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "anna.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "vaiana",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "vaiana.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "belle",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "belle.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "jasmine",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "jasmine.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "raiponce",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "raiponce.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "blanche_neige",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "blanche_neige.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "aurore",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "aurore.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "ariel",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ariel.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "merida",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "merida.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "mulan",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "mulan.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "luffy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "luffy.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "girl5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "girl5.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "anonymous",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "anonymous.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "slime",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "slime.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "herobrine_freezed",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "herobrine_freezed.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pro_gamer3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pro_gamer3.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "wizard",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "wizard.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "herobrine_suit",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "herobrine_suit.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pro_gamer2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pro_gamer2.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pro_gamer",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pro_gamer.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "spider",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "spider.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "power_rangers",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "power_rangers.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pepe_doctor",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pepe_doctor.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "red",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "red.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "duck",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "duck.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "smile_girl",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "smile_girl.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "mask",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "mask.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "blue_creeper2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "blue_creeper2.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "girl4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "girl4.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "girl3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "girl3.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pink_girl",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pink_girl.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "green",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "green.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "girl2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "girl2.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "girl_crown_flower",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "girl_crown_flower.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "panda",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "panda.png",
+      "type": "free"
     }
 	
 	
