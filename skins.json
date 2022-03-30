@@ -516,6 +516,114 @@
       "geometry": "geometry.humanoid.custom",
       "texture": "shrek.png",
       "type": "free"
+    },
+	{
+      "localization_name": "toad",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "toad.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "donkey_kong",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "donkey_kong.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "waluigi",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "waluigi.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "peach",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "peach.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "eggman",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "eggman.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "vector",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "vector.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "wario",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "wario.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "bowser",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "bowser.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "yoshi",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "yoshi.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "daisy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "daisy.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "shadow",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "shadow.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "blaze",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "blaze.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "luigi",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "luigi.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "cream",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "cream.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "amy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "amy.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "knuckles",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "knuckles.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "tails",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "tails.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "sonic",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "sonic.png",
+      "type": "free"
     }
 	
 	
