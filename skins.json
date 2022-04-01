@@ -624,6 +624,96 @@
       "geometry": "geometry.humanoid.custom",
       "texture": "sonic.png",
       "type": "free"
+    },
+	{
+      "localization_name": "tux",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "tux.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "agent_gb",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "agent_gb.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "fuze",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "fuze.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "marinette",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "marinette.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "layton",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "layton.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "zombie",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "zombie.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "stitch",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "stitch.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "spider_man",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "spider_man.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "lava",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "lava.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "dirt",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "dirt.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "aubergine",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "aubergine.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "polar_bear",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "polar_bear.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "minion",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "minion.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "steve_pixel",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "steve_pixel.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "melon",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "melon.png",
+      "type": "free"
     }
 	
 	
