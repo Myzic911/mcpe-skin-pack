@@ -5,833 +5,714 @@
       "localization_name": "armor",
       "geometry": "geometry.humanoid.custom",
       "texture": "armor.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "blue_girl",
       "geometry": "geometry.humanoid.custom",
       "texture": "blue_girl.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "boy",
       "geometry": "geometry.humanoid.custom",
       "texture": "boy.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "creeper",
       "geometry": "geometry.humanoid.custom",
       "texture": "creeper.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "ender_armor",
       "geometry": "geometry.humanoid.custom",
       "texture": "ender_armor.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "flame",
       "geometry": "geometry.humanoid.custom",
       "texture": "flame.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "girl",
       "geometry": "geometry.humanoid.custom",
       "texture": "girl.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "inori",
       "geometry": "geometry.humanoid.custom",
       "texture": "inori.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "kikoo",
       "geometry": "geometry.humanoid.custom",
       "texture": "kikoo.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "professor",
       "geometry": "geometry.humanoid.custom",
       "texture": "professor.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "queen",
       "geometry": "geometry.humanoid.custom",
       "texture": "queen.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "santa",
       "geometry": "geometry.humanoid.custom",
       "texture": "santa.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "strength_girl",
       "geometry": "geometry.humanoid.custom",
       "texture": "strength_girl.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "tokyo_ghoul",
       "geometry": "geometry.humanoid.custom",
       "texture": "tokyo_ghoul.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "troll",
       "geometry": "geometry.humanoid.custom",
       "texture": "troll.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "warrior",
       "geometry": "geometry.humanoid.custom",
       "texture": "warrior.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "warrior_girl",
       "geometry": "geometry.humanoid.custom",
       "texture": "warrior_girl.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "white_armor",
       "geometry": "geometry.humanoid.custom",
       "texture": "white_armor.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "white_boy",
       "geometry": "geometry.humanoid.custom",
       "texture": "white_boy.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "superman",
       "geometry": "geometry.humanoid.custom",
       "texture": "superman.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "blue_creeper",
       "geometry": "geometry.humanoid.custom",
       "texture": "blue_creeper.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "herobrine",
       "geometry": "geometry.humanoid.custom",
       "texture": "herobrine.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "pig",
       "geometry": "geometry.humanoid.custom",
       "texture": "pig.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "business_women",
       "geometry": "geometry.humanoid.custom",
       "texture": "business_women.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "girl_flower",
       "geometry": "geometry.humanoid.custom",
       "texture": "girl_flower.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "military",
       "geometry": "geometry.humanoid.custom",
       "texture": "military.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "hold_up",
       "geometry": "geometry.humanoid.custom",
       "texture": "hold_up.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "creeper_thug_life",
       "geometry": "geometry.humanoid.custom",
       "texture": "creeper_thug_life.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "noob",
       "geometry": "geometry.humanoid.custom",
       "texture": "noob.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "peggy",
       "geometry": "geometry.humanoid.custom",
       "texture": "peggy.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "girl_flight_pilot",
       "geometry": "geometry.humanoid.custom",
       "texture": "girl_flight_pilot.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "rainbow_slime",
       "geometry": "geometry.humanoid.custom",
       "texture": "rainbow_slime.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "magma_cube",
       "geometry": "geometry.humanoid.custom",
       "texture": "magma_cube.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "bot",
       "geometry": "geometry.humanoid.custom",
       "texture": "bot.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "girl_cat_ear",
       "geometry": "geometry.humanoid.custom",
       "texture": "girl_cat_ear.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "futurist",
       "geometry": "geometry.humanoid.custom",
       "texture": "futurist.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "scientist_zombie",
       "geometry": "geometry.humanoid.custom",
       "texture": "scientist_zombie.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "rainbow_girl",
       "geometry": "geometry.humanoid.custom",
       "texture": "rainbow_girl.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "mario",
       "geometry": "geometry.humanoid.custom",
       "texture": "mario.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "king_zombie",
       "geometry": "geometry.humanoid.custom",
       "texture": "king_zombie.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "blue_girl2",
       "geometry": "geometry.humanoid.custom",
       "texture": "blue_girl2.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "cake",
       "geometry": "geometry.humanoid.custom",
       "texture": "cake.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "elsa",
       "geometry": "geometry.humanoid.custom",
       "texture": "elsa.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "anna",
       "geometry": "geometry.humanoid.custom",
       "texture": "anna.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "vaiana",
       "geometry": "geometry.humanoid.custom",
       "texture": "vaiana.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "belle",
       "geometry": "geometry.humanoid.custom",
       "texture": "belle.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "jasmine",
       "geometry": "geometry.humanoid.custom",
       "texture": "jasmine.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "raiponce",
       "geometry": "geometry.humanoid.custom",
       "texture": "raiponce.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "blanche_neige",
       "geometry": "geometry.humanoid.custom",
       "texture": "blanche_neige.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "aurore",
       "geometry": "geometry.humanoid.custom",
       "texture": "aurore.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "ariel",
       "geometry": "geometry.humanoid.custom",
       "texture": "ariel.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "merida",
       "geometry": "geometry.humanoid.custom",
       "texture": "merida.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "mulan",
       "geometry": "geometry.humanoid.custom",
       "texture": "mulan.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "luffy",
       "geometry": "geometry.humanoid.custom",
       "texture": "luffy.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "girl5",
       "geometry": "geometry.humanoid.custom",
       "texture": "girl5.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "anonymous",
       "geometry": "geometry.humanoid.custom",
       "texture": "anonymous.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "slime",
       "geometry": "geometry.humanoid.custom",
       "texture": "slime.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "herobrine_freezed",
       "geometry": "geometry.humanoid.custom",
       "texture": "herobrine_freezed.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "pro_gamer3",
       "geometry": "geometry.humanoid.custom",
       "texture": "pro_gamer3.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "wizard",
       "geometry": "geometry.humanoid.custom",
       "texture": "wizard.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "herobrine_suit",
       "geometry": "geometry.humanoid.custom",
       "texture": "herobrine_suit.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "pro_gamer2",
       "geometry": "geometry.humanoid.custom",
       "texture": "pro_gamer2.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "pro_gamer",
       "geometry": "geometry.humanoid.custom",
       "texture": "pro_gamer.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "spider",
       "geometry": "geometry.humanoid.custom",
       "texture": "spider.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "power_rangers",
       "geometry": "geometry.humanoid.custom",
       "texture": "power_rangers.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "pepe_doctor",
       "geometry": "geometry.humanoid.custom",
       "texture": "pepe_doctor.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "red",
       "geometry": "geometry.humanoid.custom",
       "texture": "red.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "duck",
       "geometry": "geometry.humanoid.custom",
       "texture": "duck.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "smile_girl",
       "geometry": "geometry.humanoid.custom",
       "texture": "smile_girl.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "mask",
       "geometry": "geometry.humanoid.custom",
       "texture": "mask.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "blue_creeper2",
       "geometry": "geometry.humanoid.custom",
       "texture": "blue_creeper2.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "girl4",
       "geometry": "geometry.humanoid.custom",
       "texture": "girl4.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "girl3",
       "geometry": "geometry.humanoid.custom",
       "texture": "girl3.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "pink_girl",
       "geometry": "geometry.humanoid.custom",
       "texture": "pink_girl.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "green",
       "geometry": "geometry.humanoid.custom",
       "texture": "green.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "girl2",
       "geometry": "geometry.humanoid.custom",
       "texture": "girl2.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "girl_crown_flower",
       "geometry": "geometry.humanoid.custom",
       "texture": "girl_crown_flower.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "panda",
       "geometry": "geometry.humanoid.custom",
       "texture": "panda.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "prisoner",
       "geometry": "geometry.humanoid.custom",
       "texture": "prisoner.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "eye_glasses",
       "geometry": "geometry.humanoid.custom",
       "texture": "eye_glasses.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "hamster",
       "geometry": "geometry.humanoid.custom",
       "texture": "hamster.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "hog_rider",
       "geometry": "geometry.humanoid.custom",
       "texture": "hog_rider.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "cow",
       "geometry": "geometry.humanoid.custom",
       "texture": "cow.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "kikoo_suit",
       "geometry": "geometry.humanoid.custom",
       "texture": "kikoo_suit.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "tnt_boy",
       "geometry": "geometry.humanoid.custom",
       "texture": "tnt_boy.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "shrek",
       "geometry": "geometry.humanoid.custom",
       "texture": "shrek.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "toad",
       "geometry": "geometry.humanoid.custom",
       "texture": "toad.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "donkey_kong",
       "geometry": "geometry.humanoid.custom",
       "texture": "donkey_kong.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "waluigi",
       "geometry": "geometry.humanoid.custom",
       "texture": "waluigi.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "peach",
       "geometry": "geometry.humanoid.custom",
       "texture": "peach.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "eggman",
       "geometry": "geometry.humanoid.custom",
       "texture": "eggman.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "vector",
       "geometry": "geometry.humanoid.custom",
       "texture": "vector.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "wario",
       "geometry": "geometry.humanoid.custom",
       "texture": "wario.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "bowser",
       "geometry": "geometry.humanoid.custom",
       "texture": "bowser.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "yoshi",
       "geometry": "geometry.humanoid.custom",
       "texture": "yoshi.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "daisy",
       "geometry": "geometry.humanoid.custom",
       "texture": "daisy.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "shadow",
       "geometry": "geometry.humanoid.custom",
       "texture": "shadow.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "blaze",
       "geometry": "geometry.humanoid.custom",
       "texture": "blaze.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "luigi",
       "geometry": "geometry.humanoid.custom",
       "texture": "luigi.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "cream",
       "geometry": "geometry.humanoid.custom",
       "texture": "cream.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "amy",
       "geometry": "geometry.humanoid.custom",
       "texture": "amy.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "knuckles",
       "geometry": "geometry.humanoid.custom",
       "texture": "knuckles.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "tails",
       "geometry": "geometry.humanoid.custom",
       "texture": "tails.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "sonic",
       "geometry": "geometry.humanoid.custom",
       "texture": "sonic.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "tux",
       "geometry": "geometry.humanoid.custom",
       "texture": "tux.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "agent_gb",
       "geometry": "geometry.humanoid.custom",
       "texture": "agent_gb.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "fuze",
       "geometry": "geometry.humanoid.custom",
       "texture": "fuze.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "marinette",
       "geometry": "geometry.humanoid.custom",
       "texture": "marinette.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "layton",
       "geometry": "geometry.humanoid.custom",
       "texture": "layton.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "zombie",
       "geometry": "geometry.humanoid.custom",
       "texture": "zombie.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "stitch",
       "geometry": "geometry.humanoid.custom",
       "texture": "stitch.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "spider_man",
       "geometry": "geometry.humanoid.custom",
       "texture": "spider_man.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "lava",
       "geometry": "geometry.humanoid.custom",
       "texture": "lava.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "dirt",
       "geometry": "geometry.humanoid.custom",
       "texture": "dirt.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "aubergine",
       "geometry": "geometry.humanoid.custom",
       "texture": "aubergine.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "polar_bear",
       "geometry": "geometry.humanoid.custom",
       "texture": "polar_bear.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "minion",
       "geometry": "geometry.humanoid.custom",
       "texture": "minion.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "steve_pixel",
       "geometry": "geometry.humanoid.custom",
       "texture": "steve_pixel.png",
-      "cape": "cape.png",
       "type": "free"
     },
 	{
       "localization_name": "melon",
       "geometry": "geometry.humanoid.custom",
       "texture": "melon.png",
-      "cape": "cape.png",
       "type": "free"
     }
 	
