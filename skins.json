@@ -714,6 +714,60 @@
       "geometry": "geometry.humanoid.custom",
       "texture": "melon.png",
       "type": "free"
+    },
+	{
+      "localization_name": "derp_suit",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "derp_suit.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "derp",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "derp.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "discord",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "discord.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "gabriel",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "gabriel.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "wonder_women",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "wonder_women.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "yellow_vest",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "yellow_vest.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "ragnar_lothbrok",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ragnar_lothbrok.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "girl_power",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "girl_power.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pink_panther",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pink_panther.png",
+      "type": "free"
     }
 	
 	
