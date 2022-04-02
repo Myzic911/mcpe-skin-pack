@@ -2,11 +2,34 @@
 
 ## How to use in game:
 
-### Android:
+### Universal installation
 
-* Download the zip file.
-* Open your file manager.
-* Extract the zip file you have previously downloaded into the folder "Android/data/com.mojang.minecraftpe/files/games/com.mojang/skin_packs/ (if your file manager cannot extract the zip file, I recommend you to download another file manager like [zarchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver) or [RAR](https://play.google.com/store/apps/details?id=com.rarlab.rar).
-* If you have not set your minecraft in external mode, the previous step does'nt works.
-* Start your minecraft and go to the skin pack manager
-* select the skin you want and enjoy. ;p
+* Go to the [release page](https://github.com/Myzic911/mcpe-skin-pack/releases)
+* Download the zip file
+* Rename it with the name you want with .mcpack extension, for exemple: Myzic911.mcpack
+* Open the file with minecraft and enjoy ;p
+
+### Android installation
+
+* Go to the [release page](https://github.com/Myzic911/mcpe-skin-pack/releases)
+* Download the zip file
+* Extract it on Android/data/com.mojang.minecraftpe/files/games/com.mojang/skin_packs/
+* Verify if the path to access to the skins.json into the skin_packs folder is name_of_the_extracted_skin_pack/skins.json
+* If you game is not on external storage, go to the game and proceed with the change and start again the first step
+* Open the game, go to your list of skin pack and enjoy ;p
+
+### Ios installation
+
+* I don't know the IOS installation at this moment
+
+### Win10 installation
+
+* I don't know the Win10 installation at this moment
+
+### Nintendo switch installation
+
+* I don't know the Nintendo switch installation at this moment
+
+### PS4 installation
+
+* I don't know the PS4 installation at this moment
