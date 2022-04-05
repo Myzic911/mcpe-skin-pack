@@ -768,6 +768,72 @@
       "geometry": "geometry.humanoid.custom",
       "texture": "pink_panther.png",
       "type": "free"
+    },
+	{
+      "localization_name": "wizard2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "wizard2.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pepe",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pepe.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "adolf_hitler",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "adolf_hitler.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "naked_man",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "naked_man.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "girl6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "girl6.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "eric_zemmour",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "eric_zemmour.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "jean_marie_le_pen",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "jean_marie_le_pen.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "thug_bear",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "thug_bear.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "louis_14",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "louis_14.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "batman",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "batman.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "zelda",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "zelda.png",
+      "type": "free"
     }
 	
 	
