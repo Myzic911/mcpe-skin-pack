@@ -1,1 +1,4 @@
-## If you have any problem with the skin pack, please contact me with [e-mail](mailto:louis.simeon@gmx.fr).
+## If you have a problem with my skin pack, you can contact me on these social network (preferly french):
+
+* [Instagram](https://instagram.com/myzic911)
+* Discord: Myzic911#7327

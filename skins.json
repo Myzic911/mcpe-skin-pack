@@ -870,10 +870,82 @@
       "geometry": "geometry.humanoid.custom",
       "texture": "girl12.png",
       "type": "free"
+    },
+	{
+      "localization_name": "among_us",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "among_us.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "furious_jumper",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "furious_jumper.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "asuna",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "asuna.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pacman",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pacman.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "girl14",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "girl14.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "girl13",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "girl13.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "angry_bird",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "angry_bird.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "full_diamond",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "full_diamond.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "phineas",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "phineas.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pixi_star",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pixi_star.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "jerry",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "jerry.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "tom",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "tom.png",
+      "type": "free"
     }
 	
 	
   ],
-  "serialize_name": "Myzic911",
+  "serialize_name": "§k§1I§fI§4I§r §5Myzic911§r §k§1I§fI§4I§r",
   "localization_name": "myzic"
 }
