@@ -26,10 +26,6 @@
 
 * I don't know the Win10 installation at this moment
 
-### Nintendo switch installation
+### It is not installable on other platform
 
-* I don't know the Nintendo switch installation at this moment
-
-### PS4 installation
-
-* I don't know the PS4 installation at this moment
+* Sorry for the nintendo switch, ps4, ps5, and xbox platform but the skin is not installable on this.
