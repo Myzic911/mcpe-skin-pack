@@ -834,6 +834,42 @@
       "geometry": "geometry.humanoid.custom",
       "texture": "zelda.png",
       "type": "free"
+    },
+	{
+      "localization_name": "girl7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "girl7.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "girl8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "girl8.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "girl9",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "girl9.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "girl10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "girl10.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "girl11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "girl11.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "girl12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "girl12.png",
+      "type": "free"
     }
 	
 	
