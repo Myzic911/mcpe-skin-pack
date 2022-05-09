@@ -942,6 +942,216 @@
       "geometry": "geometry.humanoid.custom",
       "texture": "tom.png",
       "type": "free"
+    },
+	{
+      "localization_name": "pvp1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pvp1.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pvp2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pvp2.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pvp3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pvp3.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pvp4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pvp4.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pvp5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pvp5.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pvp6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pvp6.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pvp7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pvp7.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pvp8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pvp8.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pvp9",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pvp9.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pvp10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pvp10.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pvp11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pvp11.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pvp12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pvp12.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pvp13",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pvp13.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pvp14",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pvp14.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pvp15",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pvp15.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pvp16",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pvp16.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pvp17",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pvp17.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pvp18",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pvp18.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pvp19",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pvp19.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pvp20",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pvp20.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pvp21",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pvp21.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pvp22",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pvp22.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pvp23",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pvp23.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pvp24",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pvp24.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pvp25",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pvp25.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pvp26",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pvp26.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pvp27",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pvp27.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pvp28",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pvp28.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pvp29",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pvp29.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pvp30",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pvp30.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pvp31",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pvp31.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pvp32",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pvp32.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pvp33",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pvp33.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pvp34",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pvp34.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "pvp35",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pvp35.png",
+      "type": "free"
     }
 	
 	
